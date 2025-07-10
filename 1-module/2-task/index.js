@@ -14,7 +14,7 @@ function isValid(name) {
     return false;
   }
   let len = name.length;
-  /* проверка если длина строки меньше 4 или 0
+  /* проверка если длина строки меньше 4 или 0 
   */
 
 
